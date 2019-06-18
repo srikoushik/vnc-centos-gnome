@@ -1,4 +1,4 @@
-FROM centos:centos6
+FROM centos:centos7
 MAINTAINER Nuts Project, LLC <dev@nutsproject.jp>
 
 ENV ROOT_PASSWD=centos \
